@@ -1,4 +1,21 @@
-MX Studio is a visual Effects Pipeline Application.
+MX Studio is a Application Framework visual Effects Pipeline
 
-this application can integrate with Houdini, Maya, Nuke, Realflow.
+Features:
+provide intelligent production modules
+Automate Every possible process
+Life Saving Tools for Artists , Tds, Developers and system Administrators.
 
+Supporting Applications:
+Houdini
+Maya
+Nuke
+Realflow
+Blender
+
+Supporting Platform:
+Linux - 
+BUILD and test on CentOS 7 
+
+Requirements:
+Python 2.7.8
+PyQt4
